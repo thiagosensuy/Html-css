@@ -1,0 +1,23 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.sidebar{ 
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 260px;
+    background: #11101d;
+} 
+
+.sidebar .logo-details{ 
+
+}
+
+.sidebar .logo-details .logo_name{
+    font-size: 22px;
+    color: white;
+    font-weight: 600;
+
+}
